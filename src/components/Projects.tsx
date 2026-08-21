@@ -146,3 +146,4 @@ export function Projects() {
     </section>
   );
 }
+// shunchaki commit uchun 
