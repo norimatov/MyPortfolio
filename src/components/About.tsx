@@ -53,3 +53,4 @@ export function About() {
     </section>
   );
 }
+// shunchaki commit uchun 
