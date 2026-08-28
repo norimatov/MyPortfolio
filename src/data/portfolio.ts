@@ -3,28 +3,27 @@
 export const profile = {
   name: 'Murodbek Norimatov',
   role: 'Full-Stack Developer',
-  tagline:
-    "Dasturlashga qiziqishim katta — real loyihalar yaratib, yangi texnologiyalarni o'rganish va amaliyot orqali ko'nikmalarimni doimiy oshirib boraman.",
+  tagline: "Natijaviy ishlanma va samarali jarayon — mening asosiy ustuvorliklarim. 2 yillik Fullstack tajribasi bilan mustaqil loyihalarda ishlab kelaman.",
   location: "Xorazm, O'zbekiston",
   phone: '+998 50 057 21 11',
   telegram: 'https://t.me/norimatov',
   github: 'https://github.com/norimatov',
   linkedin: '',
   resumeUrl: '#',
-  yearsExperience: 1.5,
+  yearsExperience: 2,
   availability: 'Yangi imkoniyatlarga ochiqman',
   english: 'B2 — Intermediate',
   stats: [
-    { num: '1.5+', label: 'yil tajriba' },
+    { num: '2', label: 'yil tajriba' },
     { num: '10+', label: 'loyiha' },
     { num: 'B2', label: 'ingliz tili' },
   ],
 };
 
 export const aboutParagraphs = [
-  "Men dasturlashga qiziqishi kuchli bo'lgan Junior Developer'man — real loyihalar yaratish orqali o'rganishni yaxshi ko'raman.",
-  "Yangi texnologiyalarni o'zlashtirish, muammolarni yechish va amaliyot orqali ko'nikmalarimni oshirish — mening kundalik ustuvorligim.",
-  "Qiyinchiliklardan qo'rqmayman, jamoada yaxshi ishlayman va doimiy o'sishga intilaman.",
+  "Men 2 yillik Fullstack ishlanma tajribasiga ega Middle Developer'man — mustaqil loyihalar, freelance buyurtmalar va shaxsiy pet-projects orqali o'z ko'nikmalarimni rivojlantirganman.",
+  "Frontend (React/Next.js) va backend (Node.js/NestJS) yo'nalishlarida teng darajada ishlayman, to'liq funksional veb-ilovalarni noldan yaratish, API loyihalash va ma'lumotlar bazalari bilan ishlash bo'yicha amaliy tajribaga egaman.",
+  "Kompaniyada rasmiy ishlamagan bo'lsam-da, real buyurtmalar va jamoa loyihalarida ishtirok etganman — mas'uliyatni o'z zimmasiga olish, sifatli kod yozish va murakkab vazifalarni mustaqil hal qilish odatimga aylangan.",
 ];
 
 export interface SkillGroup {

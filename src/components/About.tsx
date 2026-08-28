@@ -27,7 +27,7 @@ export function About() {
               </div>
               <div className="about-info-row">
                 <span className="k mono">tajriba</span>
-                <span>{profile.yearsExperience}+ yil</span>
+                <span>{profile.yearsExperience} yil</span>
               </div>
               <div className="about-info-row">
                 <span className="k mono">telefon</span>

@@ -63,7 +63,7 @@ export function TerminalWindow() {
         </div>
         {done && (
           <div style={{ marginTop: 14 }}>
-            <span className="tk-comment">// scroll qiling — batafsil ma'lumot pastda ↓</span>
+            <span className="tk-comment">// BATAFSIL MALUMOT ↓</span>
           </div>
         )}
       </div>

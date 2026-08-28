@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer className="footer">
       <div className="container">
-        © {new Date().getFullYear()} {profile.name} — Barcha huquqlar himoyalangan · <span className="tk-comment">// built with React + TypeScript</span>
+        © {new Date().getFullYear()} {profile.name} — Barcha huquqlar himoyalangan · <span className="tk-comment"></span>
       </div>
     </footer>
   );

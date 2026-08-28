@@ -5,14 +5,14 @@
  */
 
 export const profile = {
-  name: 'Aziz Karimov',
+  name: 'Murodbek Norimatov',
   role: 'Full-stack dasturchi',
   focus: 'Real-vaqt tizimlar va boshqaruv panellari',
   tagline:
     "Ma'lumotni jonli va tushunarli qilib ko'rsatadigan tizimlar quraman — backend'dan WebSocket orqali brauzergacha.",
   location: "Toshkent, O'zbekiston",
   availability: 'Yangi loyihalar uchun ochiq',
-  email: 'aziz@example.com',
+  email: 'norimatovmurodbek9@gmail.com',
 };
 
 export const principles: { title: string; body: string }[] = [
@@ -99,7 +99,7 @@ export const projects: Project[] = [
 ];
 
 export const socials: { label: string; value: string; href: string }[] = [
-  { label: 'GITHUB', value: 'github.com/azizkarimov', href: 'https://github.com' },
-  { label: 'LINKEDIN', value: 'linkedin.com/in/azizkarimov', href: 'https://linkedin.com' },
-  { label: 'TELEGRAM', value: '@azizkarimov', href: 'https://t.me' },
+  { label: 'GITHUB', value: 'github.com/norimatov', href: 'https://github.com' },
+  { label: 'LINKEDIN', value: 'linkedin.com/in/murodbeknorimatov', href: 'https://linkedin.com' },
+  { label: 'TELEGRAM', value: '@norimatov', href: 'https://t.me' },
 ];
